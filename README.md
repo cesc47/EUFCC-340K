@@ -54,7 +54,7 @@ download_images(df='data/train.csv', root_dir='data/train')
 
 ### Data structure
 
-The preceding data adheres to a hierarchical and multi-label structure. This implies that a single image may be associated with multiple tags simultaneously (multi-label), and these tags are organized hierarchically. In our dataset, the multi-label structure is delineated by '$', while the hierarchical structure is delineated by '/'.
+The preceding data adheres to a hierarchical and multi-label structure. This implies that a single image may be associated with multiple tags simultaneously (multi-label), and these tags are organized hierarchically. In our dataset, the multi-label structure is delineated by '$', while the hierarchical structure is delineated by '|'.
 
 To clarify, the annotation for the following image would be:
 
