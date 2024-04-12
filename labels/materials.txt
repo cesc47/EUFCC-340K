@@ -1,0 +1,270 @@
+Root
+├── material tèxtil
+│   ├── lli
+│   ├── teixit de pèl
+│   │   ├── teixit de pèl per ordit
+│   │   │   ├── vellut
+│   │   │   └── ris
+│   │   └── teixit de pèl per trama
+│   │       └── pana
+│   ├── malla
+│   │   └── tul
+│   ├── fil
+│   │   ├── fil de xenilla
+│   │   └── lurex
+│   ├── gasa
+│   ├── tèxtils per a moblament
+│   │   └── teixit per a estores
+│   ├── sarja
+│   │   ├── franel·la
+│   │   └── teixit texà
+│   ├── crepè
+│   │   └── crepè georgette
+│   ├── feltre
+│   ├── domàs
+│   ├── mostrari
+│   ├── punta
+│   │   ├── boixet
+│   │   ├── punta a màquina
+│   │   └── punta de brodat
+│   ├── batista
+│   ├── lampàs
+│   ├── xintz
+│   ├── setí
+│   ├── piqué
+│   ├── tafetà
+│   ├── chiffon
+│   ├── brocat
+│   │   └── brocatell
+│   ├── drap
+│   ├── moaré
+│   ├── protecció del revers
+│   ├── damassè
+│   └── tela
+├── fibra
+│   ├── fibra natural
+│   │   └── fibra vegetal
+│   │       ├── cotó
+│   │       ├── jute
+│   │       ├── cànem
+│   │       ├── ràfia
+│   │       ├── sisal blanc
+│   │       ├── fibra de palma
+│   │       └── coco
+│   ├── fibra sintètica
+│   │   ├── raió
+│   │   └── fibra acrílica
+│   └── fil metàl·lic
+│       └── fil de plata
+├── material vegetal
+│   ├── palla
+│   ├── fusta
+│   │   ├── fusta dura
+│   │   │   ├── om
+│   │   │   ├── caoba
+│   │   │   ├── bedoll
+│   │   │   ├── boix
+│   │   │   ├── noguer
+│   │   │   ├── banús
+│   │   │   ├── faig
+│   │   │   ├── amarant
+│   │   │   ├── auró
+│   │   │   ├── pollancre
+│   │   │   ├── til·ler
+│   │   │   ├── paduc
+│   │   │   └── òstria
+│   │   └── fusta tova
+│   │       ├── pi
+│   │       └── avet
+│   ├── herba
+│   │   ├── bambú
+│   │   └── canyota
+│   ├── escorça
+│   └── material vegetal modificat
+│       └── carbó vegetal
+├── plàstic
+│   ├── termoestable
+│   │   └── fenòlic
+│   │       └── baquelita
+│   └── termoplàstic
+│       ├── plàstic cel·lulòsic
+│       │   └── cel·luloide
+│       └── poliamida
+│           └── niló
+├── metall
+│   ├── metall no fèrric
+│   │   ├── aliatge de coure
+│   │   │   ├── llautó
+│   │   │   └── bronze
+│   │   ├── argent
+│   │   ├── plom
+│   │   ├── alumini
+│   │   ├── estany
+│   │   ├── or
+│   │   ├── coure
+│   │   ├── zinc
+│   │   ├── crom
+│   │   ├── aliatge d'argent
+│   │   │   └── plata monetària
+│   │   └── níquel
+│   ├── ferro
+│   ├── aliatge
+│   ├── filferro
+│   ├── aliatge ferri
+│   │   ├── ferro colat
+│   │   └── acer
+│   └── placa
+│       └── or moulu
+├── material animal
+│   ├── material de ceratina
+│   │   ├── pèl
+│   │   │   ├── llana
+│   │   │   │   ├── caixmir
+│   │   │   │   ├── alpaca
+│   │   │   │   └── moher
+│   │   │   ├── crin
+│   │   │   └── cabell
+│   │   ├── ploma
+│   │   ├── banya
+│   │   ├── closca de tortuga
+│   │   └── barba
+│   ├── material animal processat
+│   │   ├── cuir
+│   │   │   ├── camussa
+│   │   │   ├── pell de vedell
+│   │   │   ├── doble faç
+│   │   │   ├── cuir d'adob vegetal
+│   │   │   │   └── pell de serp
+│   │   │   └── xarol
+│   │   └── pergamí
+│   ├── material fibroinós
+│   │   └── seda
+│   └── material col·lagen
+│       └── pell
+│           └── pell de cabra
+├── vidre
+│   ├── vidre de plom
+│   │   └── vidre flint
+│   │       └── estràs
+│   │           └── rhinestone
+│   └── vidre acolorit
+├── paper
+│   ├── cartró
+│   │   └── cartolina
+│   ├── paper d'impremta
+│   └── paper d'arròs
+├── esmalt
+│   └── esmalt de porcellana
+├── pintura
+│   ├── pintura vítria
+│   ├── pintura a base d'aigua
+│   │   ├── aiguada
+│   │   ├── pintura al tremp
+│   │   └── aquarel·les
+│   └── pintura a l'oli
+├── enlluït
+│   └── guix
+│       ├── escaiola
+│       └── alabastre
+├── elastòmer
+│   └── cautxú cel·lular
+├── combinació de material animal orgànic i inorgànic
+│   ├── conquilla
+│   │   └── closca
+│   ├── nacre
+│   ├── perla
+│   ├── os
+│   │   ├── dentina
+│   │   │   └── vori
+│   │   └── dent
+│   └── coral
+├── aigua
+├── lluentó
+├── argila
+│   ├── ceràmica
+│   │   ├── porcellana
+│   │   └── bescuit
+│   ├── teula ceràmica
+│   │   └── maó foradat
+│   │       └── rajola refractària
+│   ├── engalba
+│   ├── maó
+│   ├── terracota
+│   └── caolí
+├── corda
+│   └── cordill
+├── cera
+├── mineral
+│   ├── mica
+│   ├── quars
+│   │   └── calcedònia
+│   │       ├── carneola
+│   │       └── àgata
+│   ├── turquesa
+│   ├── grafit
+│   └── òpal
+├── roca
+│   ├── roca sedimentària
+│   │   ├── chert
+│   │   │   └── sílex
+│   │   ├── gres
+│   │   └── roca carbonatada
+│   │       └── calcària
+│   ├── roca metamòrfica
+│   │   ├── marbre
+│   │   ├── jade
+│   │   └── pissarra
+│   ├── pedra
+│   │   └── gemma
+│   ├── còdol
+│   └── roca ígnia
+│       ├── roca ígnia intermèdia
+│       │   └── andesita
+│       ├── roca ígnia bàsica
+│       │   └── basalt
+│       └── roca ígnia àcida
+│           └── granit
+├── resina
+│   ├── goma elàstica
+│   ├── goma resina
+│   │   └── cautxú
+│   └── resina fòssil
+│       └── ambre
+├── rajola
+├── material bituminós
+│   └── material bituminós natural
+│       └── pirobitumen
+│           └── carbó mineral
+│               └── lignit
+│                   └── atzabeja
+├── passamaneria
+├── galó
+├── sòl
+│   ├── llim
+│   ├── sorra
+│   └── terra
+├── borla
+├── cuir sintètic
+├── paper maixé
+├── tinta
+│   ├── tinta índia
+│   └── tinta d'impremta
+├── serrell
+├── tint
+├── material compost
+│   └── faiança
+├── pa
+├── formigó
+├── creta
+│   └── sanguina
+├── trenzilla
+├── compost
+│   └── polímer
+│       └── polimetacrilat de metil
+├── ocre
+├── quitrà
+├── llapis
+├── emprimació
+├── àcid acètic
+│   └── vinagre
+└── oli

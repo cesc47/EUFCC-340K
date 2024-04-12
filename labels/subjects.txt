@@ -1,0 +1,8 @@
+Root
+├── retrat
+├── figura
+├── paisatge
+├── nu
+├── marina
+├── bodegó
+└── autoretrat

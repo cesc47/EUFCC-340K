@@ -1,0 +1,34 @@
+Root
+├── disseny
+├── arts visuals
+├── religió
+├── agricultura
+│   └── biologia
+├── art
+├── òptica
+├── zoologia
+├── arts aplicades
+├── educació
+├── aviació
+├── arquitectura
+│   └── enginyeria civil
+├── arqueologia
+├── belles arts
+├── etnografia
+├── heràldica
+├── *dance
+├── economia
+├── etnologia
+├── numismàtica
+├── geologia
+├── anatomia
+├── història de l'art
+├── botànica
+├── ramaderia
+├── medicina veterinària
+├── disseny de vestuari
+├── història
+├── matemàtiques
+├── astronomia
+├── *photography
+└── enginyeria forestal

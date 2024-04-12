@@ -1,0 +1,895 @@
+Root
+├── tèxtil
+│   └── roba de casa
+│       └── joc de taula
+├── indumentària
+│   ├── peça de vestir
+│   │   ├── peça de roba principal
+│   │   │   ├── camisa
+│   │   │   │   └── samarreta
+│   │   │   ├── jaqueta
+│   │   │   │   └── bolero
+│   │   │   ├── faldilla
+│   │   │   ├── vestit
+│   │   │   │   ├── vestit de núvia
+│   │   │   │   ├── vestit de bateig
+│   │   │   │   ├── vestit de nit
+│   │   │   │   ├── jumper
+│   │   │   │   └── vestit de còctel
+│   │   │   ├── brusa
+│   │   │   ├── justacós
+│   │   │   ├── cos
+│   │   │   ├── suèter
+│   │   │   │   └── càrdigan
+│   │   │   ├── pantalons
+│   │   │   │   ├── texans
+│   │   │   │   └── calçons
+│   │   │   ├── banyador
+│   │   │   ├── quimono
+│   │   │   ├── armilla
+│   │   │   ├── sari
+│   │   │   ├── tapall
+│   │   │   ├── vestit jaqueta
+│   │   │   │   └── vestit de carrer
+│   │   │   ├── bustier
+│   │   │   ├── pantalons curts
+│   │   │   │   └── pantalons curts esportius
+│   │   │   ├── túnica
+│   │   │   ├── caftà
+│   │   │   └── sarong
+│   │   ├── roba interior
+│   │   │   ├── calça
+│   │   │   │   └── calça llarga
+│   │   │   ├── samarreta interior
+│   │   │   ├── cotilla
+│   │   │   │   └── cotilla amb tirants
+│   │   │   ├── crinolina
+│   │   │   ├── sotafaldilles
+│   │   │   │   └── enagos
+│   │   │   ├── combinació
+│   │   │   │   └── mitja combinació
+│   │   │   ├── faixa
+│   │   │   ├── sostenidors
+│   │   │   ├── cosset
+│   │   │   └── enagos de cos sencer
+│   │   └── peça de roba exterior
+│   │       ├── xal
+│   │       ├── abric
+│   │       │   └── impermeable
+│   │       ├── capa curta
+│   │       │   └── esclavina
+│   │       ├── estola
+│   │       ├── capa
+│   │       ├── ponxo
+│   │       ├── anorac
+│   │       └── parca
+│   ├── accessori d'indumentària
+│   │   ├── accessori de vestir
+│   │   │   ├── accessori per a les mans
+│   │   │   │   ├── manyopla
+│   │   │   │   ├── guant
+│   │   │   │   ├── mitena
+│   │   │   │   └── maneguí
+│   │   │   ├── lligadura
+│   │   │   │   ├── barret
+│   │   │   │   │   ├── barret de copa
+│   │   │   │   │   ├── clac
+│   │   │   │   │   │   └── bicorn
+│   │   │   │   │   ├── barret derby
+│   │   │   │   │   ├── bonet
+│   │   │   │   │   ├── cloche
+│   │   │   │   │   └── fedora
+│   │   │   │   ├── gorra
+│   │   │   │   │   ├── fes
+│   │   │   │   │   ├── dormidora
+│   │   │   │   │   ├── casquet
+│   │   │   │   │   │   └── gorra d'estudiant
+│   │   │   │   │   ├── boina
+│   │   │   │   │   ├── gorra de bany
+│   │   │   │   │   ├── casquet interior
+│   │   │   │   │   ├── watch cap
+│   │   │   │   │   ├── gorra de punt
+│   │   │   │   │   └── gorra plana
+│   │   │   │   ├── indumentària per al cap
+│   │   │   │   │   ├── mocador de cap
+│   │   │   │   │   └── vel
+│   │   │   │   ├── adorn de cap
+│   │   │   │   │   └── corona
+│   │   │   │   ├── cinta de cap
+│   │   │   │   │   └── diadema
+│   │   │   │   ├── caperulla
+│   │   │   │   │   └── capota
+│   │   │   │   └── turbant
+│   │   │   ├── calceteria
+│   │   │   │   ├── mitjó
+│   │   │   │   └── mitges panti
+│   │   │   ├── accessori per al coll
+│   │   │   │   ├── corbata
+│   │   │   │   │   └── corbata de llaç
+│   │   │   │   ├── coll
+│   │   │   │   ├── ruixa
+│   │   │   │   ├── indumentària per al coll
+│   │   │   │   └── estola ornamental
+│   │   │   ├── braçal
+│   │   │   ├── lliga per a calceteria
+│   │   │   │   └── lligacama
+│   │   │   ├── accessori per als cabells
+│   │   │   │   ├── perruca
+│   │   │   │   ├── ornament per als cabells
+│   │   │   │   │   └── pinta
+│   │   │   │   ├── pinça per al cabell
+│   │   │   │   └── postís
+│   │   │   │       └── tupè
+│   │   │   ├── cinturó
+│   │   │   ├── faixí
+│   │   │   ├── tirant
+│   │   │   ├── calçat
+│   │   │   │   ├── sabata
+│   │   │   │   │   ├── sabatilla
+│   │   │   │   │   ├── merceneta
+│   │   │   │   │   ├── xinel·la
+│   │   │   │   │   ├── sabata de taló
+│   │   │   │   │   ├── sabatilla esportiva
+│   │   │   │   │   ├── sabata destalonada amb tira posterior
+│   │   │   │   │   ├── brogue
+│   │   │   │   │   └── mocassí
+│   │   │   │   ├── bota
+│   │   │   │   │   ├── bota de muntar
+│   │   │   │   │   └── bota de canya alta
+│   │   │   │   ├── sandàlia
+│   │   │   │   │   └── xancleta
+│   │   │   │   ├── botí
+│   │   │   │   ├── xancle
+│   │   │   │   ├── cobertor de sabates
+│   │   │   │   │   ├── galotxa
+│   │   │   │   │   └── xancleta de goma
+│   │   │   │   └── peüc
+│   │   │   ├── accessori per a les espatlles
+│   │   │   │   └── xarretera
+│   │   │   ├── joia
+│   │   │   │   ├── joia per al coll i part superior del cos
+│   │   │   │   │   └── collar
+│   │   │   │   │       └── torca
+│   │   │   │   ├── joia emprada en el vestuari
+│   │   │   │   │   ├── agulla
+│   │   │   │   │   │   ├── agulla de corbata
+│   │   │   │   │   │   ├── fermall
+│   │   │   │   │   │   ├── agulla de barret
+│   │   │   │   │   │   └── fíbula
+│   │   │   │   │   └── botó de puny
+│   │   │   │   ├── anell
+│   │   │   │   ├── braçalet
+│   │   │   │   ├── joia per al cap
+│   │   │   │   │   └── ornament per a les orelles
+│   │   │   │   │       └── arracada
+│   │   │   │   ├── penjoll
+│   │   │   │   └── joia commemorativa
+│   │   │   │       └── joia de dol
+│   │   │   │           └── hairwork jewelry
+│   │   │   ├── bufanda
+│   │   │   ├── cenyidor
+│   │   │   ├── ramet
+│   │   │   ├── polaina
+│   │   │   ├── chatelaine
+│   │   │   ├── cummerbund
+│   │   │   ├── pentinat
+│   │   │   │   └── tall de pèl facial
+│   │   │   │       ├── barba
+│   │   │   │       └── bigoti
+│   │   │   ├── stomacher
+│   │   │   ├── obi
+│   │   │   └── esperó
+│   │   └── accessori de mà
+│   │       ├── ventall
+│   │       ├── para-sol
+│   │       └── mocador
+│   │           └── mocador de solapa
+│   ├── roba de dormir
+│   │   ├── pijama
+│   │   ├── camisa de dormir
+│   │   └── mañanita
+│   ├── roba de protecció
+│   │   ├── davantal
+│   │   ├── pitet
+│   │   ├── brusa llarga
+│   │   ├── casc
+│   │   │   └── casc de bomber
+│   │   ├── armadura
+│   │   └── granota
+│   ├── roba en miniatura
+│   │   └── roba de nina
+│   ├── roba d'home
+│   ├── roba esportiva
+│   │   ├── roba de platja
+│   │   │   └── vestit de bany
+│   │   └── barbote
+│   ├── indumentària ceremonial
+│   │   └── indumentària litúrgica
+│   ├── màscara
+│   ├── vestit tradicional
+│   ├── uniforme
+│   ├── roba de nit
+│   ├── roba de dona
+│   └── roba de vestir
+│       └── bata
+├── component biològic
+│   ├── material orgànic
+│   │   ├── plàstic
+│   │   │   ├── termoestable
+│   │   │   │   └── fenòlic
+│   │   │   │       └── baquelita
+│   │   │   └── termoplàstic
+│   │   │       ├── plàstic cel·lulòsic
+│   │   │       │   └── cel·luloide
+│   │   │       └── poliamida
+│   │   │           └── niló
+│   │   ├── elastòmer
+│   │   │   └── cautxú cel·lular
+│   │   ├── cera
+│   │   ├── resina
+│   │   │   ├── goma resina
+│   │   │   │   └── cautxú
+│   │   │   ├── goma elàstica
+│   │   │   └── resina fòssil
+│   │   │       └── ambre
+│   │   ├── material bituminós
+│   │   │   └── material bituminós natural
+│   │   │       └── pirobitumen
+│   │   │           └── carbó mineral
+│   │   │               └── lignit
+│   │   │                   └── atzabeja
+│   │   ├── quitrà
+│   │   └── oli
+│   ├── component animal o humà
+│   │   ├── pèl
+│   │   ├── banya
+│   │   ├── cap
+│   │   ├── banyam
+│   │   ├── ploma
+│   │   ├── ullal
+│   │   ├── dent
+│   │   ├── esquelet
+│   │   └── ou
+│   └── part de planta
+│       ├── flor
+│       ├── fulla
+│       └── llavor
+├── retrat
+│   ├── retrat de grup
+│   └── autoretrat
+├── contenidor
+│   ├── bossa
+│   │   ├── butxaca
+│   │   ├── bossa de mà
+│   │   ├── moneder
+│   │   └── bossa d'espatlla
+│   ├── motxilla
+│   ├── contenidor culinari
+│   │   ├── recipient per beure
+│   │   │   ├── vas
+│   │   │   └── tassa
+│   │   │       └── tassa gran
+│   │   ├── plat
+│   │   │   ├── plata per servir
+│   │   │   │   └── plata
+│   │   │   └── platet de tassa
+│   │   ├── tetera
+│   │   ├── tassa de consomé
+│   │   ├── atuell de cuina
+│   │   │   ├── stockpot
+│   │   │   └── paella
+│   │   ├── atuell per a condiments
+│   │   │   └── saler
+│   │   │       └── saler obert
+│   │   └── fruitera
+│   ├── cartera
+│   │   └── bossa sobre
+│   ├── cartera de butxaca
+│   ├── equipatge
+│   │   ├── maleta
+│   │   └── bossa de viatge
+│   ├── estoig
+│   │   └── funda
+│   ├── alforja
+│   ├── atuell
+│   │   ├── bol
+│   │   ├── olla
+│   │   ├── pitxell
+│   │   ├── gerro
+│   │   ├── pot
+│   │   ├── urna
+│   │   └── poal
+│   ├── joier
+│   ├── safata
+│   ├── contenidor d'emmagatzematge
+│   │   └── atuell d'emmagatzematge
+│   │       └── àmfora
+│   ├── ungüentari
+│   ├── contenidor hortícola
+│   │   └── test
+│   ├── barril
+│   ├── gresol
+│   ├── contenidor cerimonial
+│   │   ├── contenidor litúrgic
+│   │   │   └── vas litúrgic
+│   │   │       └── calze
+│   │   └── contenidor funerari
+│   │       └── taüt
+│   │           └── sarcòfag
+│   └── cistell
+├── estructura per a transport
+│   ├── instal·lació per a transport
+│   │   ├── instal·lació per a transport aquàtic
+│   │   │   └── far
+│   │   └── instal·lació per a transport ferroviari
+│   │       └── edifici ferroviari
+│   │           └── estació de ferrocarril
+│   └── pont
+│       └── viaducte
+│           └── pont carreter
+├── eines i equips
+│   ├── equip d'ús personal
+│   │   ├── paraigua
+│   │   ├── bastó
+│   │   ├── ulleres
+│   │   │   ├── ELIMINAR
+│   │   │   └── ulleres de sol
+│   │   ├── pipa
+│   │   └── tovallola
+│   ├── equip de treball per al tèxtil
+│   │   ├── equip i eines de costura
+│   │   │   └── capsa d'agulles
+│   │   ├── fusaiola
+│   │   ├── llançadora
+│   │   ├── teler
+│   │   └── filosa
+│   ├── equip culinari
+│   │   ├── tovalló
+│   │   ├── cobert
+│   │   │   └── cullera
+│   │   └── escorredora
+│   ├── raspall
+│   ├── eina
+│   ├── eina per a treballar la pell
+│   │   ├── punxó per a treballar la pell
+│   │   └── forma
+│   ├── eina de penetració
+│   │   └── alena
+│   ├── equip de metal·listeria
+│   │   └── enclusa
+│   ├── equip de tall
+│   │   └── eina de tall
+│   │       ├── enformador
+│   │       ├── ganivet
+│   │       ├── fulla lítica
+│   │       ├── celts
+│   │       └── serra
+│   ├── esmolls
+│   ├── patró
+│   ├── equip de fusteria
+│   │   └── eina de fusteria
+│   │       ├── destraló
+│   │       └── enformador de fusteria
+│   ├── equip de calefacció
+│   │   ├── estufa
+│   │   └── forn
+│   ├── torn de terrissaire
+│   ├── equip de suport
+│   │   └── escala de mà
+│   ├── equip de creació d'imatges
+│   │   ├── estergit
+│   │   ├── llapis
+│   │   │   ├── pastel
+│   │   │   └── guix fabricat
+│   │   │       └── llapis conte®
+│   │   └── compàs
+│   ├── molí
+│   ├── equip agrícola
+│   │   ├── falç
+│   │   ├── dalla
+│   │   ├── arada
+│   │   ├── aixada
+│   │   └── falçó
+│   ├── eina per colpejar
+│   │   └── martell
+│   │       └── martell de dues mans
+│   ├── espàtula
+│   ├── equip de perforació
+│   │   └── eina de perforació
+│   │       └── trepant
+│   │           └── broca helicoïdal
+│   ├── atiador
+│   └── agulla de fer mitja
+├── coberta i domàs
+│   ├── cortina
+│   │   └── cortinatge
+│   ├── estora
+│   │   └── catifa
+│   ├── draperia
+│   │   └── tapís
+│   ├── manta
+│   ├── coberta de taula
+│   │   └── tovalles
+│   ├── coberta per a mobiliari tou
+│   │   └── coixinera
+│   └── coberta de llit
+│       ├── cobrellit
+│       │   └── manta cobrellit
+│       └── llençol
+├── document declaratori
+│   └── anunci
+├── labor
+│   ├── brodat
+│   │   └── mostrari de punts
+│   ├── punta
+│   │   ├── boixet
+│   │   ├── punta a màquina
+│   │   └── punta de brodat
+│   └── aplicació
+├── escultura
+│   ├── figureta
+│   │   └── nina
+│   ├── estatueta
+│   ├── jade
+│   ├── estàtua
+│   ├── escultura de ple volum
+│   └── relleu
+├── estructura residencial
+│   └── habitatge
+│       ├── casa
+│       │   ├── residencia oficial
+│       │   │   └── palau
+│       │   │       └── palau reial
+│       │   └── casa rural
+│       │       └── casa de pagès
+│       │           └── vil·la
+│       └── grup d'habitatges
+│           └── barracó
+├── vehicle de transport
+│   └── vehicle
+│       ├── embarcació
+│       │   ├── vaixell
+│       │   ├── barca
+│       │   ├── canoa
+│       │   └── creuer
+│       │       └── vaixell de guerra
+│       └── vehicle terrestre
+│           └── vehicle de roda lliure
+│               ├── vehicle de passatgers
+│               │   ├── automòbil
+│               │   └── bicicleta
+│               └── carro de granja
+├── estructura industrial
+│   ├── edifici industrial
+│   │   └── fàbrica
+│   └── estructura de metal·listeria
+│       └── alt forn
+├── medalla
+│   └── medalla commemorativa
+├── estructura
+│   └── edifici
+├── moneda
+│   ├── moneda del món occidental tardà
+│   │   └── ducat
+│   └── moneda asiàtica
+│       ├── moneda xinesa perforada
+│       └── moneda amb forma de pala
+├── parc públic
+├── terreny
+│   └── parc
+├── complex agrícola
+│   └── granja
+├── cementiri
+│   └── necròpoli
+├── artefacte de correspondència
+│   └── targeta postal
+├── plaça
+│   └── piazza
+├── jardí
+├── edifici institucional
+│   └── centre de salut
+│       └── piscina pública
+├── edifici públic
+│   └── edifici judicial
+│       └── tribunal de justícia
+├── component de tèxtil
+│   ├── guarnició
+│   │   ├── lluentó
+│   │   ├── passamaneria
+│   │   ├── galó
+│   │   ├── borla
+│   │   ├── serrell
+│   │   └── trenzilla
+│   └── voreta
+├── component d'indumentària
+│   ├── plomall
+│   ├── puny
+│   ├── màniga
+│   │   └── undersleeve
+│   ├── component d'armadura
+│   │   └── component d'elm
+│   │       └── cimera
+│   └── escudet
+├── estructura cerimonial
+│   ├── estructura religiosa
+│   │   ├── santuari
+│   │   └── edifici religiós
+│   │       ├── temple
+│   │       └── església
+│   │           └── catedral
+│   └── estructura funerària
+│       ├── túmul
+│       ├── tomba
+│       └── sepulcre
+│           └── piràmide
+├── obra d'art
+├── artefacte sonor
+│   ├── instrument de música
+│   ├── aeròfon
+│   │   └── flauta
+│   │       ├── flauta de tub
+│   │       │   └── xiulet
+│   │       └── flauta sense embocadura
+│   │           └── flauta vertical
+│   │               └── kaval
+│   └── membranòfon
+│       └── tambor
+├── element arquitectònic
+│   ├── obertura
+│   │   ├── finestra
+│   │   │   └── vidriera emplomada
+│   │   │       └── vitrall
+│   │   ├── component d'entrada
+│   │   │   └── porta d'entrada
+│   │   └── component de finestra
+│   │       └── marc de finestra
+│   ├── element estructural
+│   │   ├── columna
+│   │   ├── arc
+│   │   ├── element estructural de tancat
+│   │   │   ├── mur
+│   │   │   │   └── paret exterior
+│   │   │   │       └── façana
+│   │   │   ├── cúpula
+│   │   │   ├── component de mur
+│   │   │   │   └── component decoratiu del mur
+│   │   │   │       └── medalló
+│   │   │   └── sostre
+│   │   ├── component de columna
+│   │   │   └── capitell
+│   │   └── muntatge estructural
+│   │       └── arcada
+│   ├── element de circulació
+│   │   └── escala
+│   ├── element de superfície
+│   │   └── motllura arquitectònica
+│   │       └── motllura de semicanó
+│   │           └── astràgal
+│   └── instal·lació de construcció religiosa
+│       └── altar
+├── paisatge natural
+│   ├── massa d'aigua
+│   │   ├── port natural
+│   │   ├── massa d'aigua dolça
+│   │   │   ├── aiguamoll
+│   │   │   │   └── pantà
+│   │   │   ├── massa fluvial
+│   │   │   │   └── riu
+│   │   │   └── massa lacustre
+│   │   │       └── llac
+│   │   └── mar
+│   ├── vegetació
+│   │   ├── planta
+│   │   │   ├── angiospermes
+│   │   │   │   ├── rosals
+│   │   │   │   │   └── rosàcies
+│   │   │   │   │       └── rosa
+│   │   │   │   ├── fagales
+│   │   │   │   │   └── fagàcies
+│   │   │   │   │       └── quercus
+│   │   │   │   │           └── roure pènol
+│   │   │   │   └── poales
+│   │   │   │       └── poàcies
+│   │   │   ├── planta fustera
+│   │   │   │   ├── arbre
+│   │   │   │   └── planta herbàcia
+│   │   │   └── coniferòfit
+│   │   │       └── pinopsida
+│   │   │           └── pinales
+│   │   │               └── pinàcies
+│   │   │                   └── avet
+│   │   └── conjunt de plantes natives
+│   │       ├── pastura
+│   │       │   └── prat
+│   │       └── bosc
+│   └── relleu terrestre
+│       ├── cova
+│       ├── depressió
+│       ├── turó
+│       ├── accident geogràfic fluvial
+│       │   └── pantà al·luvial
+│       │       └── delta
+│       └── muntanya
+├── artefacte d'identificació
+│   ├── insígnia
+│   ├── segell
+│   │   └── segell de correus
+│   ├── etiqueta
+│   │   └── ex-libris
+│   └── condecoració
+├── fortificació
+│   ├── castell
+│   └── fortalesa
+├── subjecció
+│   ├── sivella
+│   ├── abraçadora
+│   ├── botó
+│   ├── ganxo
+│   ├── clau
+│   └── grapa
+├── font de referència
+│   └── diccionari
+├── figura
+│   ├── bust
+│   └── nu
+├── publicació
+│   └── sèrie
+│       ├── publicació periòdica
+│       └── diari
+├── cartell
+├── article esportiu i d'atletisme
+│   ├── article gimnàstic
+│   │   ├── cavall amb arcs
+│   │   └── cavall de salt
+│   └── volant de bàdminton
+├── dibuix
+├── collage
+├── fotografia
+│   ├── positiu
+│   │   ├── còpia fotogràfica
+│   │   │   └── còpia a l'albúmina
+│   │   └── transparència
+│   │       └── autocrom
+│   ├── diapositiva
+│   └── negatiu
+│       └── negatiu de placa de vidre
+├── part d'objecte
+│   ├── fragment
+│   │   └── estella
+│   ├── vora
+│   └── fons
+├── component de material
+│   └── dentina
+│       └── vori
+├── mostra
+│   └── mostrari
+├── arma
+│   ├── arma de tall
+│   │   ├── espasa
+│   │   ├── arma d'asta
+│   │   │   └── llança
+│   │   │       └── llança de caça
+│   │   └── arpó
+│   └── arma de percussió
+│       ├── garrot
+│       └── fuet
+├── component d'artefacte d'informació
+│   ├── component de material unit
+│   │   └── enquadernació
+│   └── element de disseny
+│       └── il·lustració
+│           └── il·lustració tècnica
+├── moble
+│   ├── moble de suport
+│   │   ├── base
+│   │   ├── taula
+│   │   └── penja-robes
+│   ├── moble de caixa
+│   │   ├── caixa
+│   │   │   └── caixa d'aixovar
+│   │   └── escriptori
+│   ├── seient
+│   │   ├── seient individual
+│   │   │   └── cadira
+│   │   │       ├── cadires cerimonials
+│   │   │       │   └── tron
+│   │   │       └── cadira de braços
+│   │   └── moble de seient múltiple
+│   │       ├── banc
+│   │       └── sofà
+│   └── llit
+│       └── llit infantil
+│           └── bressol
+├── joguina
+├── obra de canyís
+├── dena
+├── document
+├── llibre
+│   └── àlbum
+├── component de mobiliari
+│   └── component d'artefacte d'enllumenat
+│       └── vidre
+├── torre
+├── paisatge
+│   └── paisatge de muntanya
+├── mirall
+├── ceràmica
+│   └── gres
+├── arquitectura
+├── accessori
+├── metal·listeria
+│   └── argenteria
+├── art
+├── tresorejament
+│   └── tresor
+├── talismà
+├── component de contenidor
+│   ├── orella
+│   ├── tancament
+│   │   └── coberta
+│   │       └── tapa
+│   └── boca
+├── disc
+├── complex religiós
+│   └── comunitat religiosa
+│       ├── monestir
+│       │   ├── cartoixa
+│       │   └── abadia
+│       └── convent
+├── obra literària
+│   ├── mitologia
+│   ├── monografia
+│   ├── comèdia
+│   └── faula
+├── pedra
+│   └── gemma
+├── col·lecció
+├── divisa
+│   └── escut d'armes i element d'escuts d'armes
+│       └── escut d'armes
+├── monument
+│   └── estela
+├── ferratge
+│   ├── clau de pany
+│   └── ferratge d'acabat
+│       ├── frontissa
+│       └── aparell de seguretat
+│           └── pany
+│               └── cadenat
+├── creu
+│   └── crucifix
+├── objecte cerimonial
+│   ├── objecte religiós
+│   │   └── objecte de culte
+│   ├── objecte funerari
+│   └── objecte ritual
+├── placa
+├── ornament
+├── artefacte d'il·luminació
+│   ├── suport per a espelmes
+│   └── llum
+│       └── llàntia
+├── component d'instrument de mesura
+│   └── component de balança
+│       └── pes
+├── edifici comercial
+│   └── edifici mercantil
+│       └── mercat
+├── espai de transport
+│   └── via pública
+│       └── carrer
+│           └── carreró
+├── inscripció
+│   ├── signatura
+│   └── grafit
+├── cadena
+├── nansa
+├── caricatura
+├── pintura
+│   ├── il·luminació
+│   ├── pintura a l'oli
+│   ├── pintura de cavallet
+│   └── aquarel·la
+│       └── aiguada
+├── component d'arma
+├── imatge devocional
+│   └── icona
+├── instrument de mesura
+│   ├── indicador de temps
+│   │   ├── rellotge portàtil
+│   │   └── rellotge
+│   ├── instrument de mesura de distància
+│   │   └── instrument de mesura de distància lineal
+│   │       └── cinta mètrica
+│   └── instrument de mesura del pes
+├── conjunt de vestuari
+│   └── conjunt
+├── art de paper maixé
+├── mòmia
+├── estampa
+│   ├── intaglio
+│   │   ├── gravat
+│   │   │   └── gravat en coure
+│   │   └── aiguafort
+│   ├── planografia
+│   │   └── litografia
+│   └── estampa en relleu
+│       └── xilografia
+├── disfressa
+├── obra de laca
+├── sistema infrastructural
+│   └── sistema de transport
+│       └── transport públic
+├── material imprès
+├── al·legoria
+├── mosaic
+├── objecte arqueològic
+├── teules i rajoles
+│   └── rajola refractària
+├── porcellana
+├── marca
+├── roda
+├── ídol
+├── globus
+├── fitxa semimonetària
+│   └── getó
+├── pel·lícula
+├── esbós
+│   └── apunt
+├── full
+├── divisió de construcció
+│   └── habitació i espai
+│       ├── balcó
+│       └── espai interior
+│           └── combinació d'habitacions
+│               └── apartament
+│                   └── terra
+├── paisatge marítim
+├── marina
+├── document gràfic
+│   └── material cartogràfic
+│       └── mapa
+├── ruïna
+├── text religiós
+│   └── bíblia
+├── aixecament topogràfic
+│   └── veduta
+├── manuscrit
+│   └── manuscrit il·luminat
+├── estructura hidràulica
+│   ├── estructures de distribució d'aigua
+│   │   └── font
+│   └── canal d'aigua artificial
+│       └── canal
+├── bodegó
+├── edifici històric
+├── estructura per a art representat
+│   └── edifici per a art representat
+│       ├── teatre
+│       └── sala de concerts
+├── art figuratiu humà
+├── artefacte
+├── basílica
+├── forquilla
+├── model
+│   └── maqueta
+├── component de sistema de telecomunicació
+│   └── receptor de ràdio
+├── paisatge cultural
+│   ├── paisatge urbà
+│   └── paisatge suburbà
+├── tríptic
+├── aurèola
+├── llogaret
+├── pila
+├── estructura recreativa
+├── artefacte per a entreteniment públic
+│   └── ruleta
+├── jaciment arqueològic
+├── lloc antic
+├── grup d'artefactes recreatius
+│   └── joc de tauler
+├── tanka
+├── moneda en forma d'arma
+│   └── moneda en forma de ganivet
+└── document parcial
