@@ -2,7 +2,7 @@
 
 The EUFCC-340K dataset was compiled using the [Europeana portal's REST API](https://pro.europeana.eu/page/intro), the [Europeana](https://www.europeana.eu/en) portal aggregates cultural heritage collections across Europe. The dataset contains annotated images derived from diverse cultural artifacts, multimedia content, and traditional records from European institutions. Metadata for each item offers rich details for analysis, facilitated by a hierarchical labeling structure aligned with the [Getty "Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)".
 
-Initial data collection involved keyword searches and filtering for broad categories. Mapping Europeana concepts to Getty AAT facilitated structured labeling under four facets: Materials, Object Types, Disciplines, and Subjects. Manual curation ensured dataset quality, although some noisy annotations may remain. Each record includes information about the data provider.
+Initial data collection involved keyword searches and filtering for broad categories. Results were filtered to include only entries with available thumbnails and tagged with ``Reusability: OPEN`` ensuring that the dataset comprises images suitable for open research and application. Mapping Europeana concepts to Getty AAT facilitated structured labeling under four facets: Materials, Object Types, Disciplines, and Subjects. Manual curation ensured dataset quality, although some noisy annotations may remain. Each record includes information about the data provider.
 
 The dataset comprises 346,324 annotated images from 358 data providers. Some providers offer extensive inventories, while others contribute minimally. Statistics show variations in tag frequencies per image and across facets. The dataset is partially annotated, with varying levels of detail. Test subsets, including "Outer" and "Inner" test sets, were designated to challenge models and ensure representation. The split strategy aimed for balance and diversity, considering tag frequencies and minimum thresholds for each category. In the following figure we highlight two examples of the dataset's complexity and diversity in terms of facets and hierarchical structures:
 
@@ -22,7 +22,7 @@ data/
   ├── test_id.csv
   ├── test_ood.csv
 ```
-With the corresponding annotations for train, validation, test in-distribution and test out-of-distribution, respectively.
+With the corresponding annotations for train, validation, inner (id) test and outer (ood) test, respectively.
 
 In each file you can find:
 - `idInSource`: unique identifier for each image
@@ -85,7 +85,7 @@ We provide the results of our baselines in the following table:
 | CLIP 1 tag prompt  |   0.70  |   0.76    |  0.93   |     14.1     |   0.69   |     0.72     |   0.91   |   10.1   |
 | Ens: ML+S+CLIP     |   0.80  |   0.87    |  0.99   |     5.0      |   0.68   |     0.70     |   0.92   |   13.1   |
 
-For more information about the baselines, the architecture used, the training process, the loss procedures and the evaluation metrics please refer to the paper.
+For more information about the baselines, the architecture used, the training process, the loss procedures and the evaluation metrics please refer to the paper (currently under review).
 
 
 ## Qualitative samples
