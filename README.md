@@ -1,15 +1,6 @@
-# EUFCC-340K
+# EUFCC-340K: A Faceted Hierarchical Dataset for Metadata Annotation in GLAM Collections
 
-[[Paper]](https://todo) [[Citations]](#citing)
-
-A Faceted Hierarchical Dataset for Metadata Annotation in GLAM Collections
-
-## Introduction
-In this repo we address the challenges of automatic metadata annotation in the domain of Galleries, Libraries, Archives, and Museums (GLAMs) by introducing a novel dataset, EUFCC-340K, collected from the Europeana portal. Comprising over 340,000 images, the EUFCC-340K dataset is organized across multiple facets -- Materials, Object Types, Disciplines, and Subjects -- following a hierarchical structure based on the Art & Architecture Thesaurus (AAT). We developed several baseline models, incorporating multiple heads on a ConvNeXT backbone for multi-label image tagging on these facets, and fine-tuning a CLIP model with our image-text pairs. Our experiments to evaluate model robustness and generalization capabilities in two different test scenarios demonstrate the dataset's utility in improving multi-label classification tools that have the potential to alleviate cataloging tasks in the cultural heritage sector.
-
-## Dataset
-### Overview
-The EUFCC-340K dataset was compiled using the Europeana portal's REST API, which aggregates cultural heritage collections across Europe. The dataset contains annotated images derived from diverse cultural artifacts, multimedia content, and traditional records from European institutions. Metadata for each item offers rich details for analysis, facilitated by a hierarchical labeling structure aligned with the Getty "Art & Architecture Thesaurus (AAT)".
+The EUFCC-340K dataset was compiled using the [Europeana portal's REST API](https://pro.europeana.eu/page/intro), the [Europeana](https://www.europeana.eu/en) portal aggregates cultural heritage collections across Europe. The dataset contains annotated images derived from diverse cultural artifacts, multimedia content, and traditional records from European institutions. Metadata for each item offers rich details for analysis, facilitated by a hierarchical labeling structure aligned with the [Getty "Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)".
 
 Initial data collection involved keyword searches and filtering for broad categories. Mapping Europeana concepts to Getty AAT facilitated structured labeling under four facets: Materials, Object Types, Disciplines, and Subjects. Manual curation ensured dataset quality, although some noisy annotations may remain. Each record includes information about the data provider.
 
@@ -20,7 +11,6 @@ The dataset comprises 346,324 annotated images from 358 data providers. Some pro
 The following figure illustrates the dataset statistics:
 
 ![](fig/statistics.png)
-
 
 
 ### Data Collection
@@ -78,7 +68,7 @@ Note that to do this we've merged a priori all the labels (from train.csv, valid
 
 
 ## Baselines
-Although the code cannot be shared due to privacy reasons, we provide the results of our baselines in the following table:
+We provide the results of our baselines in the following table:
 
 |       Method       | Test ID |  Test ID  | Test ID |   Test ID    | Test OOD |  Test OOD    | Test OOD | Test OOD |
 |:------------------:|:-------:|:---------:|:-------:|:------------:|:--------:|:------------:|:--------:|:--------:|
@@ -108,9 +98,3 @@ This work has been supported by the Ramon y Cajal research fellowship RYC2020-
 030777-I / AEI / 10.13039/501100011033, the CERCA Programme / Generalitat de
 Catalunya, and ACCIO INNOTEC 2021 project Coeli-IA (ACE034/21/000084).
 
-## Citation
-If you found this repository useful, please consider citing:
-```
-@article{eufcc340k,
-  todo
-}
