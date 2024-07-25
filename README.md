@@ -1,5 +1,7 @@
 # EUFCC-340K: A Faceted Hierarchical Dataset for Metadata Annotation in GLAM Collections
 
+[[paper](https://arxiv.org/abs/2406.02380)]
+
 The EUFCC-340K dataset was compiled using the [Europeana portal's REST API](https://pro.europeana.eu/page/intro), the [Europeana](https://www.europeana.eu/en) portal aggregates cultural heritage collections across Europe. The dataset contains annotated images derived from diverse cultural artifacts, multimedia content, and traditional records from European institutions. Metadata for each item offers rich details for analysis, facilitated by a hierarchical labeling structure aligned with the [Getty "Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)".
 
 Initial data collection involved keyword searches and filtering for broad categories. Results were filtered to include only entries with available thumbnails and tagged with ``Reusability: OPEN`` ensuring that the dataset comprises images suitable for open research and application. Mapping Europeana concepts to Getty AAT facilitated structured labeling under four facets: Materials, Object Types, Disciplines, and Subjects. Manual curation ensured dataset quality, although some noisy annotations may remain. Each record includes information about the data provider.
@@ -85,7 +87,7 @@ We provide the results of our baselines in the following table:
 | CLIP 1 tag prompt  |   0.70  |   0.76    |  0.93   |     14.1     |   0.69   |     0.72     |   0.91   |   10.1   |
 | Ens: ML+S+CLIP     |   0.80  |   0.87    |  0.99   |     5.0      |   0.68   |     0.70     |   0.92   |   13.1   |
 
-For more information about the baselines, the architecture used, the training process, the loss procedures and the evaluation metrics please refer to the paper (currently under review).
+For more information about the baselines, the architecture used, the training process, the loss procedures and the evaluation metrics please refer to the [paper](https://arxiv.org/abs/2406.02380) (currently under review).
 
 
 ## Qualitative samples
