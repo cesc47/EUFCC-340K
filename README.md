@@ -1,6 +1,6 @@
 # EUFCC-340K: A Faceted Hierarchical Dataset for Metadata Annotation in GLAM Collections
 
-[[paper](https://arxiv.org/abs/2406.02380)]
+[[paper](https://arxiv.org/abs/2406.02380)] [[Citations]](#citing) [[EUFCC-CIR]](#eufcc-cir)
 
 The EUFCC-340K dataset was compiled using the [Europeana portal's REST API](https://pro.europeana.eu/page/intro), the [Europeana](https://www.europeana.eu/en) portal aggregates cultural heritage collections across Europe. The dataset contains annotated images derived from diverse cultural artifacts, multimedia content, and traditional records from European institutions. Metadata for each item offers rich details for analysis, facilitated by a hierarchical labeling structure aligned with the [Getty "Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)".
 
@@ -100,3 +100,19 @@ This work has been supported by the Ramon y Cajal research fellowship RYC2020-
 030777-I / AEI / 10.13039/501100011033, the CERCA Programme / Generalitat de
 Catalunya, and ACCIO INNOTEC 2021 project Coeli-IA (ACE034/21/000084).
 
+## Citing
+
+```bibtex
+@article{net2024eufcc,
+  title={EUFCC-340K: A Faceted Hierarchical Dataset for Metadata Annotation in GLAM Collections},
+  author={Net, Francesc and Folia, Marc and Casals, Pep and Bagdanov, Andrew D and Gomez, Lluis},
+  journal={arXiv preprint arXiv:2406.02380},
+  year={2024}
+}
+```
+
+## EUFCC-CIR
+
+An extension of the EUFCC-340K dataset for Composed Image Retrieval:
+
+[EUFCC-CIR: A Composed Image Retrieval Dataset for GLAM Collections](https://github.com/cesc47/EUFCC-CIR)
